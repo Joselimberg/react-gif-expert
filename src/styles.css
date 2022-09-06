@@ -49,6 +49,10 @@ h3 {
   overflow: hidden;
 }
 
+.card:active {
+  background-color: gray;
+}
+
 .card p {
   background-color: white;
   flex: 1;
